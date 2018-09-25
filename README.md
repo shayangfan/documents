@@ -1,3 +1,3 @@
-##idea+gradle+ssm¿ò¼Ü´î½¨¹ı³Ì
+##idea+gradle+ssmæ¡†æ¶æ­å»ºè¿‡ç¨‹
 
 https://blog.csdn.net/u011422624/article/details/72778773
